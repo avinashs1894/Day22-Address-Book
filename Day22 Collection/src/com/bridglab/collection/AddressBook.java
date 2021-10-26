@@ -102,8 +102,6 @@ public class AddressBook
 		    System.out.println("Enter a email: ");
 		    setEmail(userinput.next());
 		    
-		    
-		    
 		    System.out.println("name:\t" + this.getFirstName());
 		    System.out.println("last name:\t" + this.getLastName());
 		    System.out.println("state:\t" + this.getState());
