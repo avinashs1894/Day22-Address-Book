@@ -112,8 +112,6 @@ public class AddressBook
 		    System.out.println("phone_no:\t" + this.getPhoneNO());
 		    System.out.println("email:\t" + this.getEmail());
 		    System.out.println("email:\t" + this.getEmail());
-					
-	
 	}
 	
 	public static void main(String[] args)
